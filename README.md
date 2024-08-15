@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @shivam7290k
-- 👀 I’m interested in programmin
+- 👋 Hi, I’m @shivam kumar
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning in Gurukul Kangri University
 
   
