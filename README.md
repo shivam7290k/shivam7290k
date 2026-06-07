@@ -6,8 +6,6 @@
 * 🎓 B.Sc. Graduate from Gurukul Kangri University, Haridwar
 * 💻 Passionate about Programming, Software Development, and Artificial Intelligence
 * 🌱 Currently learning Data Structures & Algorithms, Python, and Machine Learning
-* 🚀 Building projects in Web Development and AI Assistant Development
-* 🤖 Working on an Offline AI Assistant project named "Ellie"
 * 📫 Always interested in learning new technologies and contributing to open-source projects
 
 ## Skills
